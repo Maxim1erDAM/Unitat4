@@ -74,7 +74,7 @@ git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 
 ![ImatgeFitxers](Imatges/CAPTURA%20FINAL%20FITXERS.png)
 
->***`Executem els tots els TARGETS del makefile amb "sudo make TARGET", tambe utilitzem "sudo make dist" per a crear un directori "dist" amb el compilat de calcula al directori fill, i "sudo make distclean" per a eliminar eixe directori: `***  
+>***`Executem tots els TARGETS del makefile amb "sudo make TARGET", tambe utilitzem "sudo make dist" per a crear un directori "dist" amb el compilat de calcula al directori fill, i "sudo make distclean" per a eliminar eixe directori: `***  
 
 ![ImatgePostCompilacioTARGETSPart1](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
 
@@ -99,25 +99,28 @@ git add NOMDEFITXER
 
 >***`Crearem un fitxer .gitignore per a que no incluisca els fitxers .o compilats de el directori del repositori:`***  
 >***`Eixemple:`***  
+
 ![CreacioArchiu.gitignore](Imatges/Creació%20de%20fitxer%20.gitignore%20incluint%20commit%20i%20fent%20push%20al%20branch%20master.png)
 
 >***`Así un eixemple de push de les Imatges del ejercici:`***  
 >***`Eixemple:`***  
+
 ![PujadaD'imatges](Imatges/captura%20final%20edd%20pujada%20imatges.png)
 
 
 >***`Así un eixemple de push de tot el contingut al final del ejercici:`***  
->***`Eixemple:`***  
+>***`Eixemple:`*** 
+
 ![PushFinal1](Imatges/push%20final%201.png)
 
 ![PushFinal2](Imatges/push%20final%202.png)
 
 >***`Así no mos deixa fer el COMMIT pero perque el contingut no a cambiat a la rama MASTER:`***  
 >***`Eixemple:`***  
+
 ![PushFinal3](Imatges/push%20final%203.png)
 
->***`Así torne a copiar tot el contingut de un primer repositori anomenat "Unitat-4" a un segon repositori anomenat "Unitat4", utilitzant la ordre 
-"git remote add NOMDEORIGE https://github.com/USUARIGITHUB/REPOSITORI.git":`***  
+>***`Así torne a copiar tot el contingut de un primer repositori anomenat "Unitat-4" a un segon repositori anomenat "Unitat4", utilitzant la ordre "git remote add NOMDEORIGE https://github.com/USUARIGITHUB/REPOSITORI.git":`***  
 >***`Eixemple, en el meu cas:`***
 
 git remote add origin2 https://github.com/Maxim1erDAM/Unitat4.git
@@ -129,4 +132,5 @@ git remote add origin2 https://github.com/Maxim1erDAM/Unitat4.git
 
 >***`Así es quan finalment puc fer el push, despres de fer el commit relatiu a origin2:`***  
 >***`Eixemple:`*** 
+
 ![Copiantsegorepositori](Imatges/COPIANT%20CONTINGUT%20A%20UN%20SEGON%20REPOSITORI%202.png)
