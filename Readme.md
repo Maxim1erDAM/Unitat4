@@ -59,7 +59,7 @@ git clone https://github.com/Maxim1erDAM/Unitat-4.git
 
 
 >***`Després de descarregar-lo, ens situarem en el directori i sincronitzarem el directori amb el repositori de Github.`***  
-https://github.com/USUARIGITHUB/REPOSITORI.git" :`***  
+"git remote add origin https://github.com/USUARIGITHUB/REPOSITORI.git" :`***  
 
 >***`Eixemple:`***  
 
@@ -116,7 +116,17 @@ git add NOMDEFITXER
 >***`Eixemple:`***  
 ![PushFinal3](Imatges/push%20final%203.png)
 
->***`Así torne a copiar tot el contingut de un primer repositori anomenat "Unitat-4" a un segon repositori anomenat "Unitat4":`***  
->***`Eixemple:`***  
+>***`Así torne a copiar tot el contingut de un primer repositori anomenat "Unitat-4" a un segon repositori anomenat "Unitat4", utilitzant la ordre 
+"git remote add NOMDEORIGE https://github.com/USUARIGITHUB/REPOSITORI.git":`***  
+>***`Eixemple, en el meu cas:`***
+
+git remote add origin2 https://github.com/Maxim1erDAM/Unitat4.git
+
+
+
 ![Copiantsegorepositori](Imatges/COPIANT%20CONTINGUT%20A%20UN%20SEGON%20REPOSITORI.png)
+
+
+>***`Así es quan finalment puc fer el push, despres de fer el commit relatiu a origin2:`***  
+>***`Eixemple:`*** 
 ![Copiantsegorepositori](Imatges/COPIANT%20CONTINGUT%20A%20UN%20SEGON%20REPOSITORI%202.png)
