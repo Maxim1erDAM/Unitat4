@@ -116,4 +116,4 @@ git add NOMDEFITXER
 >***`Eixemple:`***  
 ![PushFinal3](Imatges/push%20final%203.png)
 
-![Copiantsegorepositori](Imatges/pCOPIANT%20CONTINGUT%20A%20UN%20SEGON%20REPOSITORI%202.png)
+![Copiantsegorepositori](Imatges/COPIANT%20CONTINGUT%20A%20UN%20SEGON%20REPOSITORI%202.png)
