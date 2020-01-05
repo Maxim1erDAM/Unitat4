@@ -118,4 +118,5 @@ git add NOMDEFITXER
 
 >***`Así torne a copiar tot el contingut de un primer repositori anomenat "Unitat-4" a un segon repositori anomenat "Unitat4":`***  
 >***`Eixemple:`***  
+![Copiantsegorepositori](Imatges/COPIANT%20CONTINGUT%20A%20UN%20SEGON%20REPOSITORI.png)
 ![Copiantsegorepositori](Imatges/COPIANT%20CONTINGUT%20A%20UN%20SEGON%20REPOSITORI%202.png)
