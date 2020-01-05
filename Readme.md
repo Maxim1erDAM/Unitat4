@@ -1,6 +1,6 @@
 # **1ER DAM. Desarrotllament D'Aplicacions Multiplataforma. EDD. Entorns de Desenvolupament.**
 
-***2019-Editat per Máxim Sánchez Porta***
+***2019- Editat per Máxim Sánchez Porta***
 
 
 # Index:
