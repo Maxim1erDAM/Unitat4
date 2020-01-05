@@ -1,6 +1,6 @@
 # **1ER DAM. Desarrotllament D'Aplicacions Multiplataforma. EDD. Entorns de Desenvolupament.**
 
-***2019- Editat per Máxim Sánchez Porta***
+***2019-Editat per Máxim Sánchez Porta***
 
 
 # Index:
@@ -83,6 +83,7 @@ git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 ![ImatgePostCompilacioTARGETSPart2](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%202.png)
 
 >***`Executem el archiu "calcula" compilat del makefile amb "sudo make calc.o" i "sudo make calcula": `*** 
+
 ![Execuciocalcula](Imatges/EXECUCIOCALCULA.png)
 
 ## 4.-Com utilitzar Git Part 2.
