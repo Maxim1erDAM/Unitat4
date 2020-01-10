@@ -11,7 +11,7 @@
 >
 >***[1.-Com instalar Git i Make en Ubuntu 18.](https://github.com/Maxim1erDAM/Unitat4#1-com-instalar-git-i-make-en-ubuntu-18)***
 >
->***[2. Com utilitzar Git Part 1](https://github.com/Maxim1erDAM/Unitat-4/blob/master/Readme.md#2-com-utilitzar-git)***
+>***[2. Com utilitzar Git Part 1](https://github.com/Maxim1erDAM/Unitat4#2-com-utilitzar-git-part-1)***
 >
 >***[3. Make i el fitxer Makefile](https://github.com/Maxim1erDAM/Unitat-4/blob/master/Readme.md#3--make-i-el-fitxer-makefile)***
 >
