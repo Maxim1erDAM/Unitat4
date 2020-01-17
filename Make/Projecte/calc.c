@@ -10,13 +10,17 @@ int multiplica(int op1, int op2){
 int divideix(int op1, int op2){
 	return (op1/op2);
 } 
-int major(int op1,int op2)
-{
-    if(op1>op2) return (op1);
-    if(op2>op1) return (op2);
 
+int majorque(int op1, int op2){
+	if (op1>op2){
+		return (op1);
+	}
+	else{
+		return (op2);
+	}
 }
 
-int mitjana(int op1, int op2){
-	return ((op1+op2)/2);
+int mitja(int op1, int op2){
+	int mitjana=((op1+op2)/2);
+	return mitjana;
 }

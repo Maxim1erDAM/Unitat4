@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "calc.h"
 
+
+
 int main(void){
 	int a=10;
 	int b=5;
@@ -8,6 +10,6 @@ int main(void){
 	printf("La resta entre %d i %d és %d\n", a, b, resta(a,b));
 	printf("La multiplicació de %d i %d és %d\n", a, b, multiplica(a,b));
 	printf("La divisió entre %d i %d és %d\n", a, b, divideix(a,b));
-	printf("El major entre %d i %d és %d\n", a, b, major(a,b));
-	printf("AL mitjana és de %d i %d és %d\n", a, b, mitjana(a,b));
+	printf("El major entre %d i %d és %d\n", a, b, majorque(a,b));
+	printf("La mitjana entre %d i %d és %d\n", a, b, mitja(a,b));
 }
