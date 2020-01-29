@@ -163,11 +163,11 @@ git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 
 >***`Executem tots els TARGETS del makefile amb "sudo make TARGET", tambe utilitzem "sudo make dist" per a crear un directori "dist" amb el compilat de calcula al directori fill, i "sudo make distclean" per a eliminar eixe directori: `***  
 
-![ImatgePostCompilacioTARGETSPart1](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
+![ImatgePostCompilacioTARGETSPart1](Projecte/Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%201.png)
 
 >***`Com s'elimina el directori "dist" amb el target "distclean": `***  
 
-![ImatgePostCompilacioTARGETSPart2](Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%202.png)
+![ImatgePostCompilacioTARGETSPart2](Projecte/Imatges/Eixeple%20de%20compilacio%20i%20targets%20de%20Makefile%20i%20CMAKE%20part%202.png)
 
 >***`Executem el archiu "calcula" compilat del makefile amb "sudo make calc.o" i "sudo make calcula": `*** 
 
@@ -188,7 +188,7 @@ git add NOMDEFITXER
 >***`Crearem un fitxer .gitignore per a que no incluisca els fitxers .o compilats de el directori del repositori:`***  
 >***`Eixemple:`***  
 
-![CreacioArchiu.gitignore](Imatges/Creació%20de%20fitxer%20.gitignore%20incluint%20commit%20i%20fent%20push%20al%20branch%20master.png)
+![CreacioArchiu.gitignore](Projecte/Imatges/Creació%20de%20fitxer%20.gitignore%20incluint%20commit%20i%20fent%20push%20al%20branch%20master.png)
 
 >***`Así un eixemple de push de les Imatges del ejercici:`***  
 >***`Eixemple:`***  
@@ -215,10 +215,10 @@ git remote add origin2 https://github.com/Maxim1erDAM/Unitat4.git
 
 
 
-![Copiantsegorepositori](Imatges/COPIANT%20CONTINGUT%20A%20UN%20SEGON%20REPOSITORI.png)
+![Copiantsegorepositori](Projecte/Imatges/COPIANT%20CONTINGUT%20A%20UN%20SEGON%20REPOSITORI.png)
 
 
 >***`Así es quan finalment puc fer el push, despres de fer el commit relatiu a origin2:`***  
 >***`Eixemple:`*** 
 
-![Copiantsegorepositori](Imatges/COPIANT%20CONTINGUT%20A%20UN%20SEGON%20REPOSITORI%202.png)
+![Copiantsegorepositori](Projecte/Imatges/COPIANT%20CONTINGUT%20A%20UN%20SEGON%20REPOSITORI%202.png)
