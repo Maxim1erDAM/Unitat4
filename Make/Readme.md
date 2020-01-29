@@ -159,7 +159,7 @@ git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 ## 3.-Make i el fitxer Makefile
 >***`Modificarem els fitxers, en este cas son els fitxers escrits en C del exercici "Calcula":calc.c, calc.h i calcula.c amb companyia del fitxer Makefile de make.`***  
 
-![ImatgeFitxers](Imatges/CAPTURA%20FINAL%20FITXERS.png)
+![ImatgeFitxers](Projecte/Imatges/CAPTURA%20FINAL%20FITXERS.png)
 
 >***`Executem tots els TARGETS del makefile amb "sudo make TARGET", tambe utilitzem "sudo make dist" per a crear un directori "dist" amb el compilat de calcula al directori fill, i "sudo make distclean" per a eliminar eixe directori: `***  
 
@@ -171,7 +171,7 @@ git remote add origin https://github.com/Maxim1erDAM/Unitat-4.git
 
 >***`Executem el archiu "calcula" compilat del makefile amb "sudo make calc.o" i "sudo make calcula": `*** 
 
-![Execuciocalcula](Imatges/EXECUCIOCALCULA.png)
+![Execuciocalcula](Projecte/Imatges/EXECUCIOCALCULA.png)
 
 ## 4.-Com utilitzar Git Part 2.
 >***`Al modificar els fitxers tindrem que sincronizarlos amb el nostre repositori local de GIT amb "git add" : `***  
@@ -182,8 +182,8 @@ git add NOMDEFITXER
 >***`Eixemple que mos mostra els canvis del COMMIT:`***  
 
 
-![ImatgePushARepoPart1](Imatges/Git-Github%20PARTE%201.png)
-![ImatgePushARepoPart2](Imatges/Git-Github%20PARTE%202.png)
+![ImatgePushARepoPart1](Projecte/Imatges/Git-Github%20PARTE%201.png)
+![ImatgePushARepoPart2](Projecte/Imatges/Git-Github%20PARTE%202.png)
 
 >***`Crearem un fitxer .gitignore per a que no incluisca els fitxers .o compilats de el directori del repositori:`***  
 >***`Eixemple:`***  
@@ -193,20 +193,20 @@ git add NOMDEFITXER
 >***`Así un eixemple de push de les Imatges del ejercici:`***  
 >***`Eixemple:`***  
 
-![PujadaD'imatges](Imatges/captura%20final%20edd%20pujada%20imatges.png)
+![PujadaD'imatges](Projecte/Imatges/captura%20final%20edd%20pujada%20imatges.png)
 
 
 >***`Así un eixemple de push de tot el contingut al final del ejercici:`***  
 >***`Eixemple:`*** 
 
-![PushFinal1](Imatges/push%20final%201.png)
+![PushFinal1](Projecte/Imatges/push%20final%201.png)
 
-![PushFinal2](Imatges/push%20final%202.png)
+![PushFinal2](Projecte/Imatges/push%20final%202.png)
 
 >***`Así no mos deixa fer el COMMIT pero perque el contingut no a cambiat a la rama MASTER:`***  
 >***`Eixemple:`***  
 
-![PushFinal3](Imatges/push%20final%203.png)
+![PushFinal3](Projecte/Imatges/push%20final%203.png)
 
 >***`Así torne a copiar tot el contingut de un primer repositori anomenat "Unitat-4" a un segon repositori anomenat "Unitat4", utilitzant la ordre "git remote add NOMDEORIGE https://github.com/USUARIGITHUB/REPOSITORI.git":`***  
 >***`Eixemple, en el meu cas:`***
