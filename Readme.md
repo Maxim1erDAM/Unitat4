@@ -1,6 +1,6 @@
 # Unitat 4. Eines d'automatització. Make, ant, maven i gradle.
 
-# - Estructura de l'ejercici
+# - Estructura de l'ejercici - Pràctica de la unitat
 
 ```
 Unitat4/
@@ -23,6 +23,16 @@ Unitat4/
         └── (codi font de l'aplicació, ordenat en carpetes i fitxers de construcció)
 
 ```
+## Repositoris per a el treball de l'Unitat 4:
+Unitat4: https://github.com/Maxim1erDAM/Unitat4.git
+
+## Repositoris per a cada eina:
+Make: https://github.com/Maxim1erDAM/einamake.git
+Ant: https://github.com/Maxim1erDAM/einaant.git
+Maven: https://github.com/Maxim1erDAM/einamaven.git
+Gradle: https://github.com/Maxim1erDAM/einagradle.git
+
+
 -Fitxers del repositori de l'Unitat4:
 ```
 ├── Java
@@ -91,3 +101,4 @@ Unitat4/
     └── Readme.md
 
 ```
+
