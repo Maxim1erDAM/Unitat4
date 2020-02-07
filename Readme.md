@@ -1,9 +1,30 @@
 # Unitat 4. Eines d'automatització. Make, ant, maven i gradle.
 
-#Directori 
+# - Estructura de l'ejercici
 
 ```
-.
+Unitat4/
+├── Java
+│   ├── ant
+│   │   ├── Readme.md
+│   │   └── projecte
+│   │       └── (codi font de l'aplicació, ordenat en carpetes i fitxers de construcció)
+│   ├── gradle
+│   │   ├── Readme.md
+│   │   └── projecte
+│   │       └── (codi font de l'aplicació, ordenat en carpetes i fitxers de construcció)
+│   └── maven
+│       ├── Readme.md
+│       └── projecte
+│           └── (codi font de l'aplicació, ordenat en carpetes i fitxers de construcció)
+└── Make
+    ├── Readme.md
+    └── projecte
+        └── (codi font de l'aplicació, ordenat en carpetes i fitxers de construcció)
+
+```
+-Fitxers del repositori de l'Unitat4:
+```
 ├── Java
 │   ├── ant
 │   │   ├── imatgeseinaant/
