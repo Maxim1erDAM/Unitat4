@@ -3,7 +3,7 @@
 
 >### Índex de projectes..
 >
->***[1.-Make.](https://github.com/Maxim1erDAM/Unitat4#1-com-instalar-git-i-make-en-ubuntu-18)***
+>***[1.-Make.](https://github.com/Maxim1erDAM/Unitat4/tree/master/Make)***
 >
 >***[2.-Ant](https://github.com/Maxim1erDAM/Unitat4#2-com-utilitzar-git-part-1)***
 >
