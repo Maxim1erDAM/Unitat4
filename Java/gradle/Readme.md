@@ -393,20 +393,21 @@ Ara, quan construïm el projecte, automàticament es descarregarà la llibreria 
 
 L'eixida del programa serà una cosa semblant a aquesta:
 
-alumne@alumne-VirtualBox:~/Escritorio/einagradle/projecte$ gradle run --args="252 66"
+alumne@alumne-VirtualBox:~/Escritorio/einagradle/projecte$ gradle run --args="4 5"
 
 > Task :run
-La suma entre 252.0 i 66.0 és 318.0
-La resta entre 252.0 i 66.0 és 186.0
-La multiplicació entre 252.0 i 66.0 és 16632.0
-La divisió entre 252.0 i 66.0 és 3.8181818
-El número major entre els dos números pasats com a arguments, que són: 252.0 i 66.0. El major es el número:252.0
-La mitja entre els números pasat com a arguments, que són: 252.0 i 66.0. El mitja es el número:159.0
-L'operand 1 és: 252.0. L'operand1:  NO  és prim.
-L'operand 1 és: 252.0. El numero primo seguent és: 97.0 .
-Última operació realitzada: siguienteprimohasta97; Últim resultat: 97.0
+La suma entre 4.0 i 5.0 és 9.0
+La resta entre 4.0 i 5.0 és -1.0
+La multiplicació entre 4.0 i 5.0 és 20.0
+La divisió entre 4.0 i 5.0 és 0.8
+El número major entre els dos números pasats com a arguments, que són: 4.0 i 5.0. El major es el número:5.0
+La mitja entre els números pasat com a arguments, que són: 4.0 i 5.0. El mitja es el número:4.5
+L'operand 1 és: 4.0. L'operand1:  NO  és prim.
+L'operand 1 és: 4.0. El numero primo seguent és: 5.0 .
+Última operació realitzada: siguienteprimohasta97; Últim resultat: 5.0
 
-BUILD SUCCESSFUL in 4s
+BUILD SUCCESSFUL in 13s
 2 actionable tasks: 1 executed, 1 up-to-date
+
 
 Podem utilitzar qualsevol dels mecanismes i IDEs què hem vist.
