@@ -392,7 +392,7 @@ $ gradle tasks
 Ara, quan construïm el projecte, automàticament es descarregarà la llibreria commons-math3 , al realitzar el build.
 
 L'eixida del programa serà una cosa semblant a aquesta:
-
+```
 alumne@alumne-VirtualBox:~/Escritorio/einagradle/projecte$ gradle run --args="4 5"
 
 > Task :run
@@ -408,6 +408,6 @@ L'operand 1 és: 4.0. El numero primo seguent és: 5.0 .
 
 BUILD SUCCESSFUL in 13s
 2 actionable tasks: 1 executed, 1 up-to-date
-
+```
 
 Podem utilitzar qualsevol dels mecanismes i IDEs què hem vist.
